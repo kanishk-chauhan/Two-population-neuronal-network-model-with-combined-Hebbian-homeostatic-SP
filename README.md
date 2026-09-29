@@ -204,9 +204,11 @@ These folders are not part of the repository.
 
 ## License
 
-This repository is released under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). You may
-use, modify and share the code and data for noncommercial purposes, including academic research and
-teaching. Commercial use is not permitted.
+This repository is released under the
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE.md).
+You may use, modify and share the code and data, including modified versions, for noncommercial
+purposes such as academic research and teaching, provided you give appropriate credit. Commercial
+use is not permitted.
 
 ## Citation
 
